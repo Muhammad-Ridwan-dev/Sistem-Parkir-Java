@@ -1,5 +1,8 @@
 # 🚗 Parking Management System
-
+![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql)
+![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)
+![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)
 A desktop-based Parking Management System developed using Java Swing and MySQL.
 
 ## 📌 Description
