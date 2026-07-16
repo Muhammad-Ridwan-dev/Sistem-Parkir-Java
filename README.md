@@ -1,10 +1,28 @@
 # 🚗 Parking Management System
-
+![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql)
+![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)
+![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)
 A desktop-based Parking Management System developed using Java Swing and MySQL.
 
 ## 📌 Description
 
-This application was developed as a final project for the Programming course. It helps parking attendants manage parking operations efficiently, including vehicle registration, parking transactions, user management, and reporting.
+## 📷 Application Preview
+
+### Login
+![Login](images/login.jpg)
+
+### Dashboard
+![Dashboard](images/dashboard.jpg)
+
+### Vehicle Management
+![Vehicle](images/kendaraan.jpg)
+
+### Parking Transaction
+![Transaction](images/transaksi.jpg)
+
+### Report
+![Report](images/laporan.jpg)
 
 ## ✨ Features
 
