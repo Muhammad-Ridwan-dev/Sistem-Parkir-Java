@@ -10,19 +10,19 @@ A desktop-based Parking Management System developed using Java Swing and MySQL.
 ## 📷 Application Preview
 
 ### Login
-![Login](images/login.jpg)
+![Login](images/form login.jpg)
 
 ### Dashboard
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/Dashboard_Menu Utama.jpg)
 
 ### Vehicle Management
-![Vehicle](images/kendaraan.jpg)
+![Vehicle](images/form master data_kendaraan.jpg)(images/form master data_tarif parkir.jpg)(images/form master data_petugas.jpg)(images/form master data_user.jpg)
 
 ### Parking Transaction
-![Transaction](images/transaksi.jpg)
+![Transaction](images/Form_Transaksi_Parkir.jpg)
 
 ### Report
-![Report](images/laporan.jpg)
+![Report](images/form laporan parkir.jpg)
 
 ## ✨ Features
 
