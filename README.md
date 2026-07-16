@@ -7,7 +7,22 @@ A desktop-based Parking Management System developed using Java Swing and MySQL.
 
 ## 📌 Description
 
-This application was developed as a final project for the Programming course. It helps parking attendants manage parking operations efficiently, including vehicle registration, parking transactions, user management, and reporting.
+## 📷 Application Preview
+
+### Login
+![Login](images/login.jpg)
+
+### Dashboard
+![Dashboard](images/dashboard.jpg)
+
+### Vehicle Management
+![Vehicle](images/kendaraan.jpg)
+
+### Parking Transaction
+![Transaction](images/transaksi.jpg)
+
+### Report
+![Report](images/laporan.jpg)
 
 ## ✨ Features
 
