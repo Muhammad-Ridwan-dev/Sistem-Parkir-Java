@@ -9,26 +9,51 @@ A desktop-based Parking Management System developed using Java Swing and MySQL.
 
 ## 📷 Application Preview
 
-### Login
-![Login](images/form_login.jpg)
+### 🔐 Login Form
 
-### Dashboard
+![Login Form](images/form_login.jpg)
+
+---
+
+### 🏠 Main Dashboard
+
 ![Dashboard](images/Dashboard_Menu_Utama.jpg)
 
-### Vehicle Management
-![Vehicle](images/form_master_data_kendaraan.jpg)
+---
 
-(images/form_master_data_tarif_parkir.jpg)
+### 🚗 Vehicle Management
 
-(images/form_master_data_petugas.jpg)
+![Vehicle Management](images/form_master_data_kendaraan.jpg)
 
-(images/form_master_data_user.jpg)
+---
 
-### Parking Transaction
-![Transaction](images/Form_Transaksi_Parkir.jpg)
+### 👤 Staff Management
 
-### Report
-![Report](images/form_laporan_parkir.jpg)
+![Staff Management](images/form_master_data_petugas.jpg)
+
+---
+
+### 💰 Parking Rate Management
+
+![Parking Rate Management](images/form_master_data_tarif_parkir.jpg)
+
+---
+
+### 👥 User Management
+
+![User Management](images/form_master_data_user.jpg)
+
+---
+
+### 🎫 Parking Transaction
+
+![Parking Transaction](images/Form_Transaksi_Parkir.jpg)
+
+---
+
+### 📊 Parking Report
+
+![Parking Report](images/form_laporan_parkir.jpg)
 
 ## ✨ Features
 
