@@ -55,6 +55,20 @@ A desktop-based Parking Management System developed using Java Swing and MySQL.
 
 ![Parking Report](images/form_laporan_parkir.jpg)
 
+---
+
+## 🛠 Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Programming Language | Java |
+| User Interface | Java Swing |
+| Database | MySQL |
+| Database Connectivity | JDBC |
+| Build Tool | Maven |
+| IDE | NetBeans IDE |
+| Version Control | Git & GitHub |
+
 ## ✨ Features
 
 - User Login Authentication
