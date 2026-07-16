@@ -1,11 +1,7 @@
 # 🚗 Parking Management System
-![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java-Swing-blue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-Database-red?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-Apache_C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![License](https://img.shields.io/badge/License-Educational-success?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Muhammad-Ridwan-dev/Sistem-Parkir-Java?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Muhammad-Ridwan-dev/Sistem-Parkir-Java?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Muhammad-Ridwan-dev/Sistem-Parkir-Java?style=for-the-badge)
 A desktop-based Parking Management System developed using Java Swing and MySQL.
 
 ## 📌 Description
