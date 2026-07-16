@@ -1,25 +1,55 @@
 # 🚗 Parking Management System
 
-Desktop application developed using Java Swing and MySQL.
+A desktop-based Parking Management System developed using Java Swing and MySQL.
 
-## Features
+## 📌 Description
 
-- Login Authentication
-- Vehicle Management
-- Parking Staff Management
+This application was developed as a final project for the Programming course. It helps parking attendants manage parking operations efficiently, including vehicle registration, parking transactions, user management, and reporting.
+
+## ✨ Features
+
+- User Login Authentication
+- Dashboard
+- Vehicle Data Management (CRUD)
+- Parking Staff Management (CRUD)
 - Parking Rate Management
-- Parking Transaction
-- Report
+- Parking Transactions
+- Parking Report
+- MySQL Database Integration
 
-## Technologies
+## 🛠 Technologies Used
 
 - Java
 - Java Swing
-- MySQL
 - JDBC
-- Maven
-- NetBeans
+- MySQL
+- Apache Maven
+- NetBeans IDE
 
-## Developer
+## 📂 Project Structure
 
-Muhammad Ridwan Arifin
+```
+src/
+├── main/
+│   ├── java/
+│   └── resources/
+```
+
+## ⚙️ How to Run
+
+1. Clone this repository.
+2. Open the project using NetBeans IDE.
+3. Import the MySQL database.
+4. Configure the database connection.
+5. Run the project.
+
+## 👨‍💻 Developer
+
+**Muhammad Ridwan Arifin**
+
+- Informatics Student
+- Universitas Pamulang
+
+## 📄 License
+
+This project is created for educational purposes.
