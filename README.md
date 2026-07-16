@@ -17,8 +17,11 @@ A desktop-based Parking Management System developed using Java Swing and MySQL.
 
 ### Vehicle Management
 ![Vehicle](images/form_master_data_kendaraan.jpg)
+
 (images/form_master_data_tarif_parkir.jpg)
+
 (images/form_master_data_petugas.jpg)
+
 (images/form_master_data_user.jpg)
 
 ### Parking Transaction
