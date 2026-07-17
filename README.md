@@ -68,6 +68,27 @@ The application helps parking attendants manage parking operations efficiently, 
 
 ---
 
+## 🏗 System Architecture
+
+```mermaid
+graph LR
+
+A[User]
+
+B[Java Swing Application]
+
+C[JDBC]
+
+D[(MySQL Database)]
+
+A --> B
+
+B --> C
+
+C --> D
+
+```
+
 ## 🛠 Tech Stack
 
 | Category | Technology |
