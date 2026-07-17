@@ -6,6 +6,8 @@
 
 A desktop-based Parking Management System developed using Java Swing and MySQL.
 
+---
+
 ## 📌 Description
 
 This desktop-based Parking Management System was developed using Java Swing and MySQL as a final project for the Programming course.
@@ -17,6 +19,8 @@ The application helps parking attendants manage parking operations efficiently, 
 - Staff management
 - Parking rate management
 - Report generation
+
+---
 
 ## 📷 Application Preview
 
@@ -86,8 +90,9 @@ A --> B
 B --> C
 
 C --> D
-
 ```
+
+---
 
 ## 🛠 Tech Stack
 
@@ -161,8 +166,8 @@ Sistem-Parkir-Java
 │           └── p17/
 ├── pom.xml
 └── README.md
-
 ```
+---
 
 ## 🚀 Future Improvements
 
@@ -190,11 +195,14 @@ Informatics Student at Universitas Pamulang
 - CSS
 - Cisco Packet Tracer
 - Microsoft Office
+  
 ---
 
 ## 📄 License
 
 This project was developed for educational purposes as a university final project.
+
+---
 
 ## 🙏 Acknowledgements
 
